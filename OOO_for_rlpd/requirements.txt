@@ -1,0 +1,19 @@
+numpy >= 1.20.2
+gym == 0.23.1
+dm_control >= 1.0.0
+jax[cuda11_pip] == 0.4.7
+-f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jaxlib == 0.4.7
+flax == 0.6.10
+ml_collections >= 0.1.0
+tqdm >= 4.60.0
+optax == 0.1.5
+absl-py >= 0.12.0
+scipy >= 1.6.0
+wandb >= 0.12.14
+tensorflow-probability == 0.20.0
+dmcgym @ git+https://github.com/maxsobolmark/dmcgym
+moviepy
+imageio
+d4rl @ git+https://github.com/nakamotoo/D4RL@master#egg=d4rl
+cython < 3
