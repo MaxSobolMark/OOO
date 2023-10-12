@@ -1,4 +1,4 @@
-# Offline RL for Online RL: Decoupled Policy Learning for Mitigating Exploration Bias
+# Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias
 <p align="center">
 <img src="figures/Figure_1.png">
 </p>
