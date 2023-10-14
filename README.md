@@ -3,7 +3,7 @@
 <img src="figures/Figure_1.png">
 </p>
 
-This repository contains the official implementation of [Offline RL for Online RL: Decoupled Policy Learning for Mitigating Exploration Bias](https://google.com) by Max Sobol Mark*, Archit Sharma*, Fahim Tajwar, Rafael Rafailov, Sergey Levine, and Chelsea Finn.
+This repository contains the official implementation of [Offline RL for Online RL: Decoupled Policy Learning for Mitigating Exploration Bias](https://arxiv.org/abs/2310.08558) by Max Sobol Mark*, Archit Sharma*, Fahim Tajwar, Rafael Rafailov, Sergey Levine, and Chelsea Finn.
 
 We build on top of the original implementations for each algorithm, and since each of them uses different package versions, a separate Python environment is needed for each algorithm.
 
